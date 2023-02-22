@@ -1,11 +1,8 @@
 <template>
-  <div class="orders">
+  <div class="main-container">
     <h1>PEDIDOS</h1>
   </div>
 </template>
 <script>
 
 </script>
-<style scoped>
-
-</style>
